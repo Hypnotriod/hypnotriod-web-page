@@ -14,5 +14,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
     this.document.body.classList.remove('loading');
+    const loading: HTMLElement = window.document.getElementById('loading-main');
+    loading.parentNode.removeChild(loading);
   }
 }
