@@ -1,0 +1,184 @@
+{
+	"locale": {
+		"defaultLanguage": "en",
+		"supportedLanguages": ["en"]
+	},
+	"about": {
+		"artistIconUrl": "/assets/img_preview/2.jpg"
+	},
+	"releases": [
+		{
+			"href": "https://soundcloud.com/wideviberecords/sets/ghosts-of-a-bamboo-forest-by-hypnotriod",
+			"iconUrl": "/assets/img_preview/release05.jpg",
+			"headerTextId": "RELEASE_GOABF_HEADER",
+			"textId": "RELEASE_GOABF"
+		},
+		{
+			"href": "https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges",
+			"iconUrl": "/assets/img_preview/release04.jpg",
+			"headerTextId": "RELEASE_SHE_HEADER",
+			"textId": "RELEASE_SHE"
+		},
+		{
+			"href": "https://sentimony.bandcamp.com/album/va-tempo-syndicate",
+			"iconUrl": "/assets/img_preview/release02.jpg",
+			"headerTextId": "RELEASE_TS_HEADER",
+			"textId": "RELEASE_TS"
+		},
+		{
+			"href": "https://www.discogs.com/Various-The-Best-Electronica-In-UA-Vol1/release/2889982",
+			"iconUrl": "/assets/img_preview/release01.jpg",
+			"headerTextId": "RELEASE_BTIUE_HEADER",
+			"textId": "RELEASE_BTIUE"
+		},
+		{
+			"href": "https://www.discogs.com/Various-The-Best-Progressive-In-UA-Vol1/release/2890138",
+			"iconUrl": "/assets/img_preview/release03.jpg",
+			"headerTextId": "RELEASE_BTIUP_HEADER",
+			"textId": "RELEASE_BTIUP"
+		}
+	],
+	"audios": [
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/974579587&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/974579392&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/974579272&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/974579098&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65807635&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65807554&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65807454&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65807379&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		},
+		{
+			"soundCloudIframeSrc": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65807201&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+		}
+	],
+	"videos": [
+		{
+			"youTubeIframeSrc": "https://www.youtube.com/embed/2X619qXaAIE"
+		},
+		{
+			"youTubeIframeSrc": "https://www.youtube.com/embed/qiT7fQuKQ30"
+		},
+		{
+			"youTubeIframeSrc": "https://www.youtube.com/embed/k9r61niDF1k"
+		},
+		{
+			"youTubeIframeSrc": "https://www.youtube.com/embed/Oa7nzuJx8Po"
+		},
+		{
+			"youTubeIframeSrc": "https://www.youtube.com/embed/qLNpoqWsr_k"
+		},
+		{
+			"youTubeIframeSrc": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Filya.pikin.7%2Fvideos%2F1588643084612651%2F&show_text=0"
+		}
+	],
+	"headerIcons": [
+		{
+			"href": "https://www.facebook.com/ilya.pikin.7",
+			"iconUrl": "/assets/icon/facebook.png"
+		},
+		{
+			"href": "https://soundcloud.com/ilya-pikin",
+			"iconUrl": "/assets/icon/soundcloud.png"
+		}
+	],
+	"photos": [
+		{
+			"fullSizeUrl": "/assets/img_full_size/8.jpg",
+			"previewUrl": "/assets/img_preview/8.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/9.jpg",
+			"previewUrl": "/assets/img_preview/9.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/10.jpg",
+			"previewUrl": "/assets/img_preview/10.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/11.jpg",
+			"previewUrl": "/assets/img_preview/11.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/12.jpg",
+			"previewUrl": "/assets/img_preview/12.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/13.jpg",
+			"previewUrl": "/assets/img_preview/13.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/1.jpg",
+			"previewUrl": "/assets/img_preview/1.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/3.jpg",
+			"previewUrl": "/assets/img_preview/3.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/6.jpg",
+			"previewUrl": "/assets/img_preview/6.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/5.jpg",
+			"previewUrl": "/assets/img_preview/5.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/4.jpg",
+			"previewUrl": "/assets/img_preview/4.jpg"
+		},
+		{
+			"fullSizeUrl": "/assets/img_full_size/7.jpg",
+			"previewUrl": "/assets/img_preview/7.jpg"
+		}
+	],
+	"contacts": [
+		{
+			"href": "mailto:hypnotriod@gmail.com",
+			"iconUrl": "/assets/icon/email_small.png",
+			"textId": "EMAIL"
+		},
+		{
+			"href": "https://www.facebook.com/ilya.pikin.7",
+			"iconUrl": "/assets/icon/facebook_small.png",
+			"textId": "FACEBOOK"
+		},
+		{
+			"href": "https://soundcloud.com/ilya-pikin",
+			"iconUrl": "/assets/icon/soundcloud_small.png",
+			"textId": "SOUNDCLOUD"
+		},
+		{
+			"href": "https://sentimony.com",
+			"iconUrl": "/assets/icon/sentimony_small.png",
+			"textId": "SENTIMONY_RECORDS"
+		},
+		{
+			"href": "https://www.facebook.com/neurosurfers/",
+			"iconUrl": "/assets/icon/neuro_surfers_small.png",
+			"textId": "NEURO_SURFERS"
+		}
+	],
+	"___": [
+		{
+			"href": "http://kombuchastudio.com/",
+			"iconUrl": "/assets/icon/kombucha_small.png",
+			"textId": "COMBUCHA_STUDIO"
+		}
+	]
+}

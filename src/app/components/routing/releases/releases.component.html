@@ -1,0 +1,19 @@
+<h3>{{"RELEASES" | getText}}</h3>
+
+<div class="releases_wrapper">
+  <div class="list-group">
+
+    <a *ngFor="let release of releases" href="{{release.href}}" target="_blank" class="list-group-item list-group-item-action pt-3 text-left">
+      <div class="row m-0 p-2">
+        <div class="col-lg-3 p-1 m-0">
+          <div class="icon" [style.backgroundImage]="'url('+ release.iconUrl +')'"></div>
+        </div>
+        <div class="col-lg-9 p-1 m-0">
+          <h5 class="text-center">{{release.headerTextId | getText}}</h5>
+          <h6 [innerHTML]="localizationService.getText(release.textId)"></h6>
+        </div>
+      </div>
+    </a>
+
+  </div>
+</div>

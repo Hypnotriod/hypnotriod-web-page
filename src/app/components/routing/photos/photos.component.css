@@ -1,0 +1,30 @@
+.photo_frame {
+    border: 2px solid #e0e0e0;
+    background-color: #e0e0e0;
+    width: 340px;
+    height: 190px;
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    margin: auto;
+    display: flex;
+    cursor: pointer;
+}
+
+.photo_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.photo_list_wrapper {
+    flex: 0 1 calc(33.3% - 32px);
+    margin: 6px;
+}
+
+.photos_wrapper {
+    max-width: 1060px;
+    display: inline-block;
+}

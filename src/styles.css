@@ -1,0 +1,80 @@
+@import '/bootstrap.min.css';
+
+div, body, html {
+    padding: 0;
+    margin: 0;
+}
+
+html { /* for footer */
+    height: 100%;
+}
+
+body { /* for footer */
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 50px; /* footer height */
+}
+
+.footer {
+    position: absolute;
+    display: table;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 50px; /* footer height */
+    background-color: #f0f0f0;
+    color: #707070; 
+    border-top: 1px solid #dfdfdf ;
+}
+
+.content_wrapper {
+    text-align: center;
+    margin-top: 10px;
+    width: 100%;
+    min-height: 100%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+p {
+    margin: 10px;
+}
+
+::-webkit-scrollbar {
+    height: 6px;
+    width: 6px
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, .3)
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #6e6e6e;
+    outline: #333 solid 1px
+}
+
+.loading {
+    background:url(/assets/gif/loading_spiner.gif) center center no-repeat;
+}
+
+@font-face {
+    font-family: InFormalBold;
+    src: url("/assets/font/InFormal_Style_Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: InFormalThin;
+    src: url("/assets/font/InFormal_Style_Thin.otf") format("opentype");
+}
+
+@font-face {
+    font-family: InFormalRegular;
+    src: url("/assets/font/InFormal_Style_Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: BrainWants;
+    src: url("/assets/font/Brain Wants.otf") format("opentype");
+}

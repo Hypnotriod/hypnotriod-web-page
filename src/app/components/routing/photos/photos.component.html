@@ -1,0 +1,12 @@
+<h3>{{"PHOTOS" | getText}}</h3>
+
+<div class="photos_wrapper">
+  <div class="photo_list">
+    <div *ngFor="let photo of photos; let i = index" class="photo_list_wrapper">
+      <div class="photo_frame" [style.backgroundImage]="'url('+ photo.previewUrl +')'" (click)="openGallery(i)"></div>
+    </div>
+  </div>
+</div>
+
+<ngx-image-gallery [images]="gallery_images" [conf]="gallery_config">
+</ngx-image-gallery>

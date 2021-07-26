@@ -1,0 +1,13 @@
+<h3>{{"CONTACTS" | getText}}</h3>
+
+<h6>
+  <div class="contacts_wrapper">
+    <div class="list-group">
+      <a *ngFor="let contact of contacts" class="list-group-item list-group-item-action pt-3 text-left"
+        target="_blank" href="{{contact.href}}">
+        <div class="icon" [style.backgroundImage]="'url('+ contact.iconUrl +')'"></div>
+        {{contact.textId | getText}}
+      </a>
+    </div>
+  </div>
+</h6>

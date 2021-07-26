@@ -1,0 +1,8 @@
+<h3>{{"WATCH" | getText}}</h3>
+
+<div *ngFor="let video of videos" class="video_wrapper">
+  <div class="container">
+    <iframe [src]="video.youTubeIframeSrc | safe" frameborder="0" allowfullscreen class="loading video"></iframe>
+  </div>
+</div>
+

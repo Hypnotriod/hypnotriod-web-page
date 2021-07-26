@@ -1,0 +1,19 @@
+
+.icon {
+    border: 2px solid #e0e0e0;
+    background-color: #e0e0e0;
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.releases_wrapper {
+    display: inline-block;
+    text-align: center;
+    max-width: 1000px;
+    margin: 5px;
+}

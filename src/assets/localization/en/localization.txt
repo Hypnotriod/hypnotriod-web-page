@@ -1,0 +1,85 @@
+@@FOOTER:Designed by Hypnotriod 2021©
+@@ARTIST_NAME:Hypnotriod
+@@ARTIST_NAME_EXT:Electronic musician Ilya Pikin
+@@ABOUT:About
+@@RELEASES:Releases
+@@LISTEN:Listen
+@@WATCH:Watch
+@@PHOTOS:Photos
+@@CONTACTS:Contacts
+@@EMAIL:hypnotriod@gmail.com
+@@FACEBOOK:Facebook
+@@SOUNDCLOUD:SoundCloud
+@@COMBUCHA_STUDIO:Kombucha Studio
+@@SENTIMONY_RECORDS:Sentimony Records
+@@NEURO_SURFERS:Neuro Surfers
+@@ARTIST_INFO:
+<p>
+    Hypnotriod (Ilya Pikin) is the Ukrainian electronic music producer and musician.
+</p>
+<p>
+    Works in various music styles, such as: Trance, Techno, Chill, Ethno, Synthwave, Electroclash, Electronica
+</p>
+<p>
+    Collaborates with various electronic musicians, projects and producers: The Rafthouse, Psykombucha (Nikita
+    Schur) Kombucha Studio, Irukanji (Ihor Orlovskyi) Sentimony Records.
+</p>
+@@RELEASE_GOABF_HEADER:Ghosts of a Bamboo Forest EP
+@@RELEASE_GOABF:
+<p>
+	We (Wide Vibe Records team) are pleased to present you this new EP of four original tracks produced by flutist Ilya Pikin aka Hypnotriod.
+</p>
+<p>
+	This unique release has absorbed various styles of progressive electronic music expressed by power of analogue synthesizers and spiced with gentle melodies of ethnic woodwinds.
+</p>
+<p>
+	Deep inside, it fills you with the electricity of the sky, the songs of forest ghosts, the rage of flame – and lets you fly high.
+</p>
+@@RELEASE_SHE_HEADER:Seven Heavenly Edges
+@@RELEASE_SHE:
+<p>
+    Is the first single released by Sentimony Records, introducing a talented Ukrainian producer and
+    musician Hypnotriod (Ilya Pikin), also known for his passion for white shirts and experimental
+    chillgressive sound.
+</p>
+<p>
+    We (Sentimony Team and Hypnotriod) would like to offer you his two original tracks and three remixes
+    from well-known Ukrainian projects Tentura, Unusual Cosmic Process (UCP) and collaboration between
+    producer Irukanji and flutist JazzyFlute.
+</p>
+<p>
+    As a result, we have this so-called micro-compilation, which goes just perfect on a moon glade, sea
+    coast or simply a bathtub with warm water and the lights switched off.
+</p>
+@@RELEASE_TS_HEADER:Sentimony Records - VA Tempo Syndicate
+@@RELEASE_TS:
+<p>
+    Sentimony Records team is proud to introduce you label's ninth release and our two years labor -
+    psychedelic music compialtion entitled Tempo Syndicate.
+</p>
+<p>
+    This new release contains 12 unique tracks of crystal clear psychedelic sound with deep bass
+    vibration, spellbinding shaman rhythms and innovative ideas.We reccomend to listen this new CD in the evening and
+    at night-time, especially at open space away from the city limits.
+</p>
+<p>
+    Track included to the compilation: Hypnotriod - The Sleep Detector
+</p>
+@@RELEASE_BTIUE_HEADER:The Best Track in Ukraine 2010
+@@RELEASE_BTIUE:
+<p>
+    The compilation includes tracks nominated to the title of the best tracks of the contest The Best Track
+    In Ukraine 2010 in the category Electronica.
+</p>
+<p>
+    Track included to the compilation: Hypnotriod - Tale-Teller
+</p>
+@@RELEASE_BTIUP_HEADER:The Best Track in Ukraine 2010
+@@RELEASE_BTIUP:
+<p>
+    The compilation includes tracks nominated to the title of the best tracks of the contest The Best Track
+    In Ukraine 2010 in the category Progressive.
+</p>
+<p>
+    Track included to the compilation: Hypnotriod - Daft Woodwind
+</p>

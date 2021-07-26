@@ -1,0 +1,8 @@
+/_resources
+/dist
+/tmp
+/out-tsc
+/node_modules
+Thumbs.db
+.editorconfig
+package-lock.json

@@ -1,0 +1,15 @@
+.icon {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    margin-right: 15px;
+    margin-top: -5px;
+    width: 32px;
+    height: 32px;
+    float: left;
+}
+
+.contacts_wrapper {
+    display: inline-block;
+    text-align: center;
+}

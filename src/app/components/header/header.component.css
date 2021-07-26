@@ -1,0 +1,41 @@
+
+.header_main_block {
+    background-color: #1b1b1b;
+    background-image: url("/assets/tile/footer_lodyas.png");
+    background-repeat: repeat;
+    width: 100%;
+}
+
+.icon {
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5px;
+    width: 42px;
+    height: 42px;
+}
+
+h1 {
+    font-family: 'BrainWants';
+    color: #f0f0f0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 2.4em;
+    text-align: center;
+}
+
+h2 {
+    color: #f0f0f0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.header_bottom_block {
+    background-color: #d6d6d6;
+    height: 4px;
+    width: 100%;
+}
