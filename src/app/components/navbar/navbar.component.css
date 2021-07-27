@@ -1,5 +1,36 @@
-.bottom_line {
+.navbarPadding {
+    height: 56px;
+}
+
+.button {
+    border: none !;
+}
+
+.navbar-toggler {
+    border: 0px solid !important;
+}
+
+.navbar-toggler:focus {
+    outline: none !important;
+}
+
+.navbar {
+    z-index: 100;
     width: 100%;
-    height: 1px;
-    background-color: #dfdfdf;
+    position: absolute;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.navbarSticky {
+    z-index: 100;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.navbarWrapper {
+    height: 45px;
+    margin: 0;
+    padding: 0;
 }

@@ -15,9 +15,10 @@ export class PhotosComponent implements OnInit {
   public photos: Array<IPhotoVO> = [];
 
   public gallery_config: GALLERY_CONF = {
-    imageOffset: '5px',
+    imageOffset: '0px',
     showDeleteControl: false,
     showImageTitle: false,
+    showThumbnails: false,
   };
 
   public gallery_images: GALLERY_IMAGE[] = [];
@@ -36,6 +37,7 @@ export class PhotosComponent implements OnInit {
   }
 
   public openGallery(index: number = 0) {
+    this.gallery_config.showArrows = false;
     this.ngxImageGallery.open(index);
   }
 

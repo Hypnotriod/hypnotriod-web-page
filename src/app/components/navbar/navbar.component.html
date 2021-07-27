@@ -1,30 +1,35 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
-  <div class="collapse navbar-collapse show">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item">
-        <a class="nav-link" routerLink="/about">{{"ABOUT" | getText}}</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" routerLink="/releases">{{"RELEASES" | getText}}</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" routerLink="/listen">{{"LISTEN" | getText}}</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" routerLink="/watch">{{"WATCH" | getText}}</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" routerLink="/photos">{{"PHOTOS" | getText}}</a>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" routerLink="/contacts">{{"CONTACTS" | getText}}</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-<div class="bottom_line"></div>
+<div class="navbarWrapper" #navbarWrapper>
+  <nav class="navbar navbar-expand-sm navbar-light bg-light" #navbar [ngClass]="{navbarSticky: isNavbarSticky==true}">
+    <button class="navbar-toggler" type="button btn-light shadow-none" data-toggle="collapse"
+      (click)="toggleNavbarVisibility()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" [ngClass]="{'show': navbarVisible}">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item" (click)="hideNavbar()">
+          <a class="nav-link" routerLink="/about">{{"ABOUT" | getText}}</a>
+        </li>
+  
+        <li class="nav-item" (click)="hideNavbar()">
+          <a class="nav-link" routerLink="/releases">{{"RELEASES" | getText}}</a>
+        </li>
+  
+        <li class="nav-item" (click)="hideNavbar()">
+          <a class="nav-link" routerLink="/listen">{{"LISTEN" | getText}}</a>
+        </li>
+  
+        <li class="nav-item" (click)="hideNavbar()">
+          <a class="nav-link" routerLink="/watch">{{"WATCH" | getText}}</a>
+        </li>
+  
+        <li class="nav-item" (click)="hideNavbar()">
+          <a class="nav-link" routerLink="/photos">{{"PHOTOS" | getText}}</a>
+        </li>
+  
+        <li class="nav-item" (click)="hideNavbar()">
+          <a class="nav-link" routerLink="/contacts">{{"CONTACTS" | getText}}</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
