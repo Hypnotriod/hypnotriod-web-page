@@ -3,6 +3,7 @@
     <button class="navbar-toggler" type="button btn-light shadow-none" data-toggle="collapse"
       (click)="toggleNavbarVisibility()">
       <span class="navbar-toggler-icon"></span>
+      <span class="align-middle">Menu</span>
     </button>
     <div class="collapse navbar-collapse" [ngClass]="{'show': navbarVisible}">
       <ul class="navbar-nav mr-auto">
@@ -33,3 +34,4 @@
     </div>
   </nav>
 </div>
+<div class="navbarShadow" [ngClass]="{'d-none': !navbarVisible}" (click)="hideNavbar()"></div>

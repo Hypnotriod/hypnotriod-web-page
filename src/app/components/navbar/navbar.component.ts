@@ -7,6 +7,8 @@ import { Component, ElementRef, HostListener, OnInit, ViewChild } from '@angular
 })
 export class NavbarComponent implements OnInit {
 
+  private readonly NAVBAR_COLLAPSE_HEIGHT: number = 575;
+
   @ViewChild('navbarWrapper') navbarWrapper: ElementRef;
 
   public navbarVisible: boolean = false;
@@ -23,6 +25,10 @@ export class NavbarComponent implements OnInit {
   }
 
   ngOnInit() {
+  }
+
+  @HostListener('window:resize', ['$event']) onResize(event: Event) {
+    if (window.innerWidth > this.NAVBAR_COLLAPSE_HEIGHT) { this.navbarVisible = false; }
   }
 
   @HostListener('window:scroll', ['$event']) onScrollEvent(event: Event) {
